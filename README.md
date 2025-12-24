@@ -38,11 +38,11 @@ cmake ..
 cmake --build .
 ./svr_kmax
 
-## Example Use Case
+ Example Use Case
 The trained Kmax(M) approximation can be embedded into a flight dynamics
 simulator or a digital twin to provide smooth and numerically stable
 aerodynamic coefficient values during time-domain simulations.
 
-## Disclaimer
+ Disclaimer
 This project is intended for educational and research purposes only.
 The author assumes no responsibility for any misuse of the provided code.
